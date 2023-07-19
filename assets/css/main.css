@@ -3907,3 +3907,14 @@ input, select, textarea {
 			}
 
 		}
+
+#icons-coding {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#inside-icon {
+	font-size: 40px;
+	padding-right: 10px;
+}
